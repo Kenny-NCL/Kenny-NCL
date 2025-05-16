@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Kenny Wang
 
-<!--
-**Kenny-NCL/Kenny-NCL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a Software Intern at **Neural Craft Labs (NCL)**, where I focus on building and experimenting with local LLM-powered applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Projects I'm Working On
+
+- 🔍 **RAG (Retrieval-Augmented Generation) App**  
+  Built a fully local RAG app using:
+  - `LangChain` for orchestration
+  - `FAISS` for vector search
+  - `Ollama` (e.g. Mistral) for running LLMs locally
+  - `Streamlit` for a lightweight UI
+
+- 💻 Exploring secure, API-free deployment for internal tools
+- 🧪 Working with document loaders, embeddings, and conversational pipelines
+
+---
+
+## ⚙️ Tech I'm Using
+
+`Python` • `LangChain` • `Streamlit` • `FAISS` • `Ollama` • `VS Code` • `Git`
+
+---
+
+## 📫 Contact
+
+- [GitHub](https://github.com/kenny-wang-xyz)
+- `kenny.wang@yourcompany.com` (work)
+
+---
+
+> “Build lightweight, local-first tools that do one thing well.”
